@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Dmitriy 👋
 
-<!--
-**Dimasskey/Dimasskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer focused on React and JavaScript.
 
-Here are some ideas to get you started:
+I build responsive web applications and have experience working on commercial projects, including e-commerce and corporate web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* JavaScript
+* React
+* React Router
+* Vite
+* SCSS
+* Context API
+* REST API
+* Framer Motion
+* Swiper
+* Git
+
+## 🚀 Featured Projects
+
+### Altaimaslo
+
+Production e-commerce frontend built with React.
+
+Product catalog, search and filtering, shopping cart, favorites, authentication, address management, checkout and responsive layouts.
+
+[View project](https://github.com/Dimasskey/altaimaslo-frontend)
+
+### ES
+
+Commercial web application built with React.
+
+Responsive interface with animations, routing, forms, modals, dark/light theme and reusable components.
+
+[View project](https://github.com/Dimasskey/es-portfolio)
+
+## 📚 Currently Improving
+
+* JavaScript
+* TypeScript
+* React
+* Frontend architecture
