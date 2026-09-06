@@ -1,43 +1,85 @@
 # Hi, I'm Dmitriy 👋
 
-I'm a Frontend Developer focused on React and JavaScript.
+Frontend Developer focused on building responsive and interactive web applications.
 
-I build responsive web applications and have experience working on commercial projects, including e-commerce and corporate web applications.
+I work primarily with React and JavaScript and have experience developing commercial websites, e-commerce applications, and interactive web interfaces.
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-* JavaScript
+**Frontend**
+
 * React
-* React Router
-* Vite
+* JavaScript
+* HTML5
+* CSS3
 * SCSS
+
+**Tools & Technologies**
+
+* TypeScript
+* Vite
+* React Router
 * Context API
 * REST API
-* Framer Motion
-* Swiper
 * Git
+* GitHub
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### Altaimaslo
+### 🛒 Altaimaslo Frontend
 
 Production e-commerce frontend built with React.
 
-Product catalog, search and filtering, shopping cart, favorites, authentication, address management, checkout and responsive layouts.
+The application includes a product catalog, search and filtering, shopping cart, favorites, authentication, user profile functionality, address management, checkout, and order history.
 
-[View project](https://github.com/Dimasskey/altaimaslo-frontend)
+**Tech:** React, JavaScript, Vite, SCSS, React Router, Context API, REST API, Framer Motion, Swiper
 
-### ES
+🔗 https://github.com/Dimasskey/altaimaslo-frontend
 
-Commercial web application built with React.
+---
 
-Responsive interface with animations, routing, forms, modals, dark/light theme and reusable components.
+### ⚛️ Digital Solutions Website
 
-[View project](https://github.com/Dimasskey/es-portfolio)
+Responsive multi-page web application built with React and modern frontend technologies.
 
-## 📚 Currently Improving
+The project includes interactive UI elements, animations, responsive layouts, reusable components, custom hooks, theme switching, forms, sliders, and React Router navigation.
 
-* JavaScript
+**Tech:** React, JavaScript, SCSS, Vite, React Router, Framer Motion, Swiper, Context API
+
+🔗 https://github.com/Dimasskey/es-portfolio
+
+---
+
+### 🎨 MixKras
+
+Commercial responsive website developed for an industrial equipment company.
+
+The project includes a product catalog, product cards, image galleries, sliders, mobile navigation, a contact form, and SEO basics.
+
+**Tech:** HTML, CSS, JavaScript, Swiper, Node.js, Express
+
+🔗 https://github.com/Dimasskey/mixkras-portfolio
+
+---
+
+### 🎮 Promo Portfolio
+
+Interactive promotional web application with gamification mechanics, mini-games, rewards, and multi-stage user progression.
+
+The portfolio version works independently without a backend and uses LocalStorage to store user data and application progress.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+🔗 https://github.com/Dimasskey/promo-portfolio
+
+## 📚 Currently Learning
+
 * TypeScript
-* React
-* Frontend architecture
+* Advanced JavaScript
+* React architecture
+* Frontend best practices
+
+## 📫 Contact
+
+GitHub: https://github.com/Dimasskey
+Telegram: @dimakhvrv
